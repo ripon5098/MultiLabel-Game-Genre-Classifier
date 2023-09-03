@@ -7,4 +7,4 @@ I have scraped data from [this website](https://boardgamegeek.com/browse/boardga
 
 
 # Model Deployment
-I 
+I deployed the model to HuggingFace Spaces Gradio App. The implementation can be found in `app` folder or [here]()
